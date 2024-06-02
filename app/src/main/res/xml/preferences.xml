@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:key="location_interval"
+        android:title="Location Interval (seconds)"
+        android:defaultValue="60"
+        android:inputType="number" />
+</PreferenceScreen>
